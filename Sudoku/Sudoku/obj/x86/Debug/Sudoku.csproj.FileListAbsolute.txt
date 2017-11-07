@@ -1,0 +1,7 @@
+D:\Nataly\Proect\c#\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+D:\Nataly\Proect\c#\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+D:\Nataly\Proect\c#\Sudoku\Sudoku\obj\x86\Debug\Sudoku.Form1.resources
+D:\Nataly\Proect\c#\Sudoku\Sudoku\obj\x86\Debug\Sudoku.Properties.Resources.resources
+D:\Nataly\Proect\c#\Sudoku\Sudoku\obj\x86\Debug\Sudoku.csproj.GenerateResource.Cache
+D:\Nataly\Proect\c#\Sudoku\Sudoku\obj\x86\Debug\Sudoku.exe
+D:\Nataly\Proect\c#\Sudoku\Sudoku\obj\x86\Debug\Sudoku.pdb
