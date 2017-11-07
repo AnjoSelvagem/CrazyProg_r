@@ -1,0 +1,9 @@
+C:\Users\n.laykina\AppData\Local\Temporary Projects\Sudoky\bin\Debug\Sudoky.exe
+C:\Users\n.laykina\AppData\Local\Temporary Projects\Sudoky\bin\Debug\Sudoky.pdb
+C:\Users\n.laykina\AppData\Local\Temporary Projects\Sudoky\obj\x86\Debug\Sudoky.Form1.resources
+C:\Users\n.laykina\AppData\Local\Temporary Projects\Sudoky\obj\x86\Debug\Sudoky.Properties.Resources.resources
+C:\Users\n.laykina\AppData\Local\Temporary Projects\Sudoky\obj\x86\Debug\Sudoky.csproj.GenerateResource.Cache
+C:\Users\n.laykina\AppData\Local\Temporary Projects\Sudoky\obj\x86\Debug\Sudoky.exe
+C:\Users\n.laykina\AppData\Local\Temporary Projects\Sudoky\obj\x86\Debug\Sudoky.pdb
+D:\Nataly\Proect\c#\Sudoky\Sudoky\obj\x86\Debug\Sudoky.exe
+D:\Nataly\Proect\c#\Sudoky\Sudoky\obj\x86\Debug\Sudoky.pdb
