@@ -11,14 +11,35 @@ namespace Sudoku
 {
     public partial class Form1 : Form
     {
+       
+
         public Form1()
         {
             InitializeComponent();
         }
 
+       
+
         private void Form1_Load(object sender, EventArgs e)
         {
 
         }
+
+ 
+        private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar) && (e.KeyChar != '.'))
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void textBox41_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+
+
     }
 }

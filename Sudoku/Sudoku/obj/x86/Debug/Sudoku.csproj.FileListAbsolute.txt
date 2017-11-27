@@ -5,3 +5,4 @@ D:\Nataly\Proect\c#\Sudoku\Sudoku\obj\x86\Debug\Sudoku.Properties.Resources.reso
 D:\Nataly\Proect\c#\Sudoku\Sudoku\obj\x86\Debug\Sudoku.csproj.GenerateResource.Cache
 D:\Nataly\Proect\c#\Sudoku\Sudoku\obj\x86\Debug\Sudoku.exe
 D:\Nataly\Proect\c#\Sudoku\Sudoku\obj\x86\Debug\Sudoku.pdb
+D:\Nataly\Proect\c#\Sudoku\Sudoku\obj\x86\Debug\Sudoku.csprojResolveAssemblyReference.cache
